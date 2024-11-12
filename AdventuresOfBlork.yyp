@@ -34,7 +34,9 @@
   },
   "name":"AdventuresOfBlork",
   "resources":[
+    {"id":{"name":"ObjPlayer","path":"objects/ObjPlayer/ObjPlayer.yy",},},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
+    {"id":{"name":"SprBlork","path":"sprites/SprBlork/SprBlork.yy",},},
     {"id":{"name":"SprFloorTiles","path":"sprites/SprFloorTiles/SprFloorTiles.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"FloorTiles","path":"tilesets/FloorTiles/FloorTiles.yy",},},
